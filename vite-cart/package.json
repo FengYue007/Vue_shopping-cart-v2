@@ -1,0 +1,20 @@
+{
+  "name": "vite-cart",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "sass": "^1.32.12",
+    "vite": "^2.2.3"
+  }
+}
